@@ -1,0 +1,4 @@
+#Wed Aug 19 16:35:59 CEST 2020
+base.0=/Users/runealexanderlarsen/TickerModeError/build/app/intermediates/dex/release/mergeDexRelease/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
